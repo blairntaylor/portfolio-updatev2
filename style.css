@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: black;
+}
+
 #head,
 #foot {
   background-color: #264653;
